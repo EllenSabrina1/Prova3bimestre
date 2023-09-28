@@ -1,0 +1,14 @@
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\bin\Debug\net6.0\Prova3bimestre.exe
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\bin\Debug\net6.0\Prova3bimestre.deps.json
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\bin\Debug\net6.0\Prova3bimestre.runtimeconfig.json
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\bin\Debug\net6.0\Prova3bimestre.dll
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\bin\Debug\net6.0\Prova3bimestre.pdb
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.AssemblyInfoInputs.cache
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.AssemblyInfo.cs
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.dll
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\refint\Prova3bimestre.dll
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.pdb
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\Prova3bimestre.genruntimeconfig.cache
+C:\Users\ellen\source\repos\Prova3bimestre\Prova3bimestre\obj\Debug\net6.0\ref\Prova3bimestre.dll
